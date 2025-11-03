@@ -1,5 +1,5 @@
 
-# NTT RAG Project
+# Agentic RAG Project
 
 A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic AI, FastAPI, and PostgreSQL (pgvector). This project provides a scalable, modular, and production-ready foundation for document-based AI applications.
 ## 📋 Table of Contents
